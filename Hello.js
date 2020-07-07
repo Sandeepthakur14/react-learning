@@ -3,7 +3,11 @@ import React from 'react';
 export default function Hello(){
   return(
     <div className="hell">
-      <h1>Hello</h1>
+      <ul>
+        <li>Kanheri Caves</li>
+        <li>Water Kingdom</li>
+        <li>Essel World</li>
+      </ul>
     </div>
   );
 }
